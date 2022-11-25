@@ -1,0 +1,12 @@
+.cards{
+    display: inline-block;
+    background-color: #86d780;
+    color: black;
+    margin: 2rem;
+    padding: 1rem;
+    width: 15rem;
+    vertical-align: middle;
+  }
+  .list{
+    text-align: left;
+  }

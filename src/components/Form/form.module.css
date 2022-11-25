@@ -1,0 +1,12 @@
+
+.label{
+    display: block;
+   margin-bottom: 1rem;
+  }
+  .input{
+    height: 2rem;
+    border-radius: 0.5rem;
+  }
+  .input:hover{
+    border-color: #535bf2;
+  }
